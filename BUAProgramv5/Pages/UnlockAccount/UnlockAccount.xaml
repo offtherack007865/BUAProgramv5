@@ -1,0 +1,19 @@
+﻿<Page x:Class="BUAProgramv5.Pages.UnlockAccount.UnlockAccount"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BUAProgramv5.Pages.UnlockAccount"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="825"
+      Loaded="Unlock_PageLoad"
+      Title="Unlock Account">
+
+    <Grid>
+        <Label x:Name="UnlockAccount_Label" Content="Unlock Account" HorizontalAlignment="Center" FontWeight="Bold" FontSize="16" VerticalAlignment="Top"/>
+        <Label x:Name="UnlockAccount_UsernameLabel" Content="Username:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="355,88,0,0"/>
+        <TextBox x:Name="Username_Textbox" KeyUp="Username_Textbox_KeyUp" HorizontalAlignment="Left" Height="31" TextWrapping="Wrap" VerticalAlignment="Top" Margin="355,119,0,0" Width="202"/>
+        <Label x:Name="alert_Label" Content="" HorizontalAlignment="Left" Margin="355,155,0,459" Width="202"/>
+        <Button x:Name="UnlockAcount_Button" Content="Unlock Account" IsEnabled="False" Click="UnlockAcount_Button_Click" HorizontalAlignment="Left" Height="34" Margin="355,196,0,420" Width="202"/>
+    </Grid>
+</Page>

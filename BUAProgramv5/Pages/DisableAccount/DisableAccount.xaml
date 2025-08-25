@@ -1,0 +1,21 @@
+﻿<Page x:Class="BUAProgramv5.Pages.DisableAccount.DisableAccount"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BUAProgramv5.Pages.DisableAccount"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="825"
+      Loaded="DisableAccount_PageLoad"
+      Unloaded="Page_Unloaded"
+      Title="DisableAccount">
+
+    <Grid Name="DisableAccount_Grid">
+        <Label x:Name="DisablePage_Label" HorizontalAlignment="Center" FontWeight="Bold" FontSize="16" VerticalContentAlignment="Center" Content="Disable User Account" VerticalAlignment="Top" Width="175" />
+        <TextBox x:Name="TextBoxSearch" HorizontalAlignment="Left" Height="32" TextWrapping="Wrap" Text="Last Name of User" KeyUp="TextBoxSearch_KeyUp" VerticalAlignment="Top" Width="189" Margin="10,111,0,0" />
+        <ListBox x:Name="UserName_Listbox" HorizontalAlignment="Left" Height="160" VerticalAlignment="Top" Width="377" ScrollViewer.VerticalScrollBarVisibility="Auto" SelectionChanged="UserName_Listbox_SelectionChanged" Margin="438,36,0,0" />
+        <TextBox x:Name="UserDetails_Textbox" HorizontalAlignment="Left" Height="290" TextWrapping="Wrap" VerticalAlignment="Top" Width="377" Margin="438,201,0,0" />
+        <Button x:Name="Disable_Account_Button" Content="Disable Account" HorizontalAlignment="Left" VerticalAlignment="Top" Width="147" Click="Disable_Account_Button_Click" Margin="668,526,0,0" />
+        <Label x:Name="UserNotFound_Label" Content="User Not Found" FontStyle="Italic" Foreground="Red" Visibility="Hidden" Margin="123,148,609,475" />
+    </Grid>
+</Page>

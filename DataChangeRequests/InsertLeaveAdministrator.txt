@@ -1,0 +1,8 @@
+-- SQL Server Instance:  smg-sql01
+USE [BuildUserAccountsV5]
+INSERT INTO [BuildUserAccountsV5].[dbo].[OnboardingJobTitle]
+           ([PermanentOrContractor]
+           ,[JobTitle])
+     VALUES
+           ('Permanent'
+           ,'Leave Administrator');

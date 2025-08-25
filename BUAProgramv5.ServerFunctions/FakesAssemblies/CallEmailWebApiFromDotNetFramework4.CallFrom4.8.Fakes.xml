@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CallEmailWebApiFromDotNetFramework4.CallFrom4.8.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class">
+            <summary>Shim type of CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.CallFrom4Dot8Class</summary>
+        </member>
+        <member name="M:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.#ctor(CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.CallFrom4Dot8Class)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.AllInstances.CallIHtmlStringBody">
+            <summary>Sets the Shim of CallFrom4Dot8Class.CallIHtmlStringBody()</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.AllInstances.MyEmailSendWithHtmlStringInputGet">
+            <summary>Sets the Shim of CallFrom4Dot8Class.get_MyEmailSendWithHtmlStringInput()</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.AllInstances.MyEmailSendWithHtmlStringInputSetEmailSendWithHtmlStringInput">
+            <summary>Sets the Shim of CallFrom4Dot8Class.set_MyEmailSendWithHtmlStringInput(EmailSendWithHtmlStringInput value)</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.AllInstances.MyEmailWebApiBaseUrlGet">
+            <summary>Sets the Shim of CallFrom4Dot8Class.get_MyEmailWebApiBaseUrl()</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.AllInstances.MyEmailWebApiBaseUrlSetString">
+            <summary>Sets the Shim of CallFrom4Dot8Class.set_MyEmailWebApiBaseUrl(String value)</summary>
+        </member>
+        <member name="M:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.CallIHtmlStringBody">
+            <summary>Sets the Shim of CallFrom4Dot8Class.CallIHtmlStringBody()</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.ConstructorStringListOfStringListOfStringStringStringListOfString">
+            <summary>Sets the Shim of CallFrom4Dot8Class.CallFrom4Dot8Class(String inputEemailSubject, List`1&lt;String&gt; inputEmailBodyLineList, List`1&lt;String&gt; inputEmailAddressList, String inputFromEmailAddress, String inputEmailWebApiBaseUrl, List`1&lt;String&gt; inputAttachmentList)</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.MyEmailSendWithHtmlStringInputGet">
+            <summary>Sets the Shim of CallFrom4Dot8Class.get_MyEmailSendWithHtmlStringInput()</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.MyEmailSendWithHtmlStringInputSetEmailSendWithHtmlStringInput">
+            <summary>Sets the Shim of CallFrom4Dot8Class.set_MyEmailSendWithHtmlStringInput(EmailSendWithHtmlStringInput value)</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.MyEmailWebApiBaseUrlGet">
+            <summary>Sets the Shim of CallFrom4Dot8Class.get_MyEmailWebApiBaseUrl()</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.ShimCallFrom4Dot8Class.MyEmailWebApiBaseUrlSetString">
+            <summary>Sets the Shim of CallFrom4Dot8Class.set_MyEmailWebApiBaseUrl(String value)</summary>
+        </member>
+        <member name="T:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.StubCallFrom4Dot8Class">
+            <summary>Stub type of CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.CallFrom4Dot8Class</summary>
+        </member>
+        <member name="M:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.StubCallFrom4Dot8Class.#ctor(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.String,System.String,System.Collections.Generic.List{System.String})">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.StubCallFrom4Dot8Class.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.StubCallFrom4Dot8Class.InitializeStub">
+            <summary>Initializes a new instance of type StubCallFrom4Dot8Class</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.StubCallFrom4Dot8Class.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:CallEmailWebApiFromDotNetFramework4.CallFrom4Dot8.Fakes.StubCallFrom4Dot8Class.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

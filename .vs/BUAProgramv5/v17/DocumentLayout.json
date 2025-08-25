@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\BuaProgramV5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FE4336-D687-4A89-853E-4034BAC14FA5}|BUAProgramv5.ServerFunctions\\BUAProgramv5.ServerFunctions.csproj|d:\\source\\repos\\buaprogramv5\\buaprogramv5.serverfunctions\\mail\\emailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FE4336-D687-4A89-853E-4034BAC14FA5}|BUAProgramv5.ServerFunctions\\BUAProgramv5.ServerFunctions.csproj|solutionrelative:buaprogramv5.serverfunctions\\mail\\emailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1C1AF-0571-429D-9275-F0A827DB8595}|BUAProgramv5.API\\BUAProgramv5.API.csproj|d:\\source\\repos\\buaprogramv5\\buaprogramv5.api\\clientworker\\service\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1C1AF-0571-429D-9275-F0A827DB8595}|BUAProgramv5.API\\BUAProgramv5.API.csproj|solutionrelative:buaprogramv5.api\\clientworker\\service\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E1C1AF-0571-429D-9275-F0A827DB8595}|BUAProgramv5.API\\BUAProgramv5.API.csproj|D:\\source\\repos\\BuaProgramV5\\buaprogramv5.api\\clientworker\\service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E1C1AF-0571-429D-9275-F0A827DB8595}|BUAProgramv5.API\\BUAProgramv5.API.csproj|solutionrelative:buaprogramv5.api\\clientworker\\service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F930DA3E-2BDA-44D9-B100-7856540BA28E}|BUAProgramv5\\BUAProgramv5.csproj|D:\\source\\repos\\BuaProgramV5\\buaprogramv5\\pages\\createaccount\\createuseraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F930DA3E-2BDA-44D9-B100-7856540BA28E}|BUAProgramv5\\BUAProgramv5.csproj|solutionrelative:buaprogramv5\\pages\\createaccount\\createuseraccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F930DA3E-2BDA-44D9-B100-7856540BA28E}|BUAProgramv5\\BUAProgramv5.csproj|D:\\source\\repos\\BuaProgramV5\\buaprogramv5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F930DA3E-2BDA-44D9-B100-7856540BA28E}|BUAProgramv5\\BUAProgramv5.csproj|solutionrelative:buaprogramv5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75963A67-9EDC-4301-9A5D-E8E9A9A15A51}|BUAProgramv5.ConsoleApp\\BUAProgramv5.ConsoleApp.csproj|D:\\source\\repos\\BuaProgramV5\\buaprogramv5.consoleapp\\helper\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75963A67-9EDC-4301-9A5D-E8E9A9A15A51}|BUAProgramv5.ConsoleApp\\BUAProgramv5.ConsoleApp.csproj|solutionrelative:buaprogramv5.consoleapp\\helper\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2391E7FF-5238-4A83-B7D9-654E9B8D63D6}|BUAProgramv5.Models\\BUAProgramv5.Models.csproj|D:\\source\\repos\\BuaProgramV5\\buaprogramv5.models\\enum\\siteenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2391E7FF-5238-4A83-B7D9-654E9B8D63D6}|BUAProgramv5.Models\\BUAProgramv5.Models.csproj|solutionrelative:buaprogramv5.models\\enum\\siteenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emailer.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "RelativeToolTip": "BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:52:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUserAccount.xaml.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5\\Pages\\CreateAccount\\CreateUserAccount.xaml.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5\\Pages\\CreateAccount\\CreateUserAccount.xaml.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5\\Pages\\CreateAccount\\CreateUserAccount.xaml.cs",
+              "RelativeToolTip": "BUAProgramv5\\Pages\\CreateAccount\\CreateUserAccount.xaml.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAcwMMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:07:28.733Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BUAProgramv5\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:06:12.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.API\\ClientWorker\\Service\\ClientService.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5.API\\ClientWorker\\Service\\ClientService.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.API\\ClientWorker\\Service\\ClientService.cs",
+              "RelativeToolTip": "BUAProgramv5.API\\ClientWorker\\Service\\ClientService.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAcwFEBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:04:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientWorker.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.API\\ClientWorker\\Service\\ClientWorker.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5.API\\ClientWorker\\Service\\ClientWorker.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.API\\ClientWorker\\Service\\ClientWorker.cs",
+              "RelativeToolTip": "BUAProgramv5.API\\ClientWorker\\Service\\ClientWorker.cs",
+              "ViewState": "AgIAAGEEAAAAAAAAAAAmwGkEAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:46:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ConsoleApp\\Helper\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5.ConsoleApp\\Helper\\ConsoleHelper.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ConsoleApp\\Helper\\ConsoleHelper.cs",
+              "RelativeToolTip": "BUAProgramv5.ConsoleApp\\Helper\\ConsoleHelper.cs",
+              "ViewState": "AgIAAEoCAAAAAAAAAAAAAFYCAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:42:03.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SiteEnum.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.Models\\Enum\\SiteEnum.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5.Models\\Enum\\SiteEnum.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.Models\\Enum\\SiteEnum.cs",
+              "RelativeToolTip": "BUAProgramv5.Models\\Enum\\SiteEnum.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAewAUBAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:09:29.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

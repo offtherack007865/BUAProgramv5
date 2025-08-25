@@ -1,0 +1,10 @@
+USE [BuildUserAccountsV5]
+GO
+
+INSERT INTO [dbo].[OnboardingJobTitle]
+           ([PermanentOrContractor]
+           ,[JobTitle])
+     VALUES
+           ('Permanent'
+           ,'Echo Technologist');
+GO

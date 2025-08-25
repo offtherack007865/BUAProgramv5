@@ -1,0 +1,27 @@
+﻿<Page x:Class="BUAProgramv5.Pages.Administrator_Functions.EditSite"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BUAProgramv5.Pages.Administrator_Functions"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="825"
+      Loaded="Edit_Site_Loaded"
+      Title="Edit Site">
+
+    <Grid>
+        <Label x:Name="SiteInfo_Label" Content="Edit Site Information" HorizontalAlignment="Left" Margin="331,10,0,0" VerticalAlignment="Top" Height="31" Width="169" FontWeight="Bold" FontSize="16"/>
+        <Label x:Name="Name_Label" Content="Name:" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Height="27" Width="47"/>
+        <Label x:Name="PhoneNumber_Label" Content="Phone Number:" HorizontalAlignment="Left" Margin="0,153,0,0" VerticalAlignment="Top" Width="103"/>
+        <Label x:Name="OrganizationalUnit_Label" Content="Organizational Unit" HorizontalAlignment="Left" Margin="617,59,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="SecurityGroups_Label" Content="Security Groups" HorizontalAlignment="Left" Margin="582,267,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="SecurityGroup_Textbox" HorizontalAlignment="Left" Height="272" Margin="583,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="242" ScrollViewer.VerticalScrollBarVisibility="Auto"/>
+        <Button x:Name="Edit_Button" Content="Edit Groups" HorizontalAlignment="Left" Margin="672,480,0,0" VerticalAlignment="Top" Width="143" Click="Edit_Button_Click"/>
+        <Button x:Name="Save_Button" Content="Save Site" HorizontalAlignment="Left" Margin="672,512,0,0" VerticalAlignment="Top" Width="143" Click="Save_Button_Click"/>
+        <TextBox x:Name="Name_Textbox" HorizontalAlignment="Left" Height="31" Margin="0,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198"/>
+        <TextBox x:Name="PhoneNumber_Textbox" HorizontalAlignment="Left" Height="31" Margin="0,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198"/>
+        <ComboBox x:Name="Org_Combobox" HorizontalAlignment="Left" Margin="617,91,0,0" VerticalAlignment="Top" Width="198" Height="31" IsReadOnly="True"/>
+        <Label x:Name="ExistingSite_Label" Content="Select Existing Site:" HorizontalAlignment="Left" Margin="312,60,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="ExistingSites_Combobox" HorizontalAlignment="Left" Margin="312,91,0,0" VerticalAlignment="Top" Width="198" Height="31" IsReadOnly="True" SelectionChanged="ExistingSites_Combobox_SelectionChanged"/>
+    </Grid>
+</Page>
