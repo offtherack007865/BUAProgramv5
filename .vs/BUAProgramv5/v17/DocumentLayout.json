@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{63FE4336-D687-4A89-853E-4034BAC14FA5}|BUAProgramv5.ServerFunctions\\BUAProgramv5.ServerFunctions.csproj|solutionrelative:buaprogramv5.serverfunctions\\mail\\emailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7E1C1AF-0571-429D-9275-F0A827DB8595}|BUAProgramv5.API\\BUAProgramv5.API.csproj|d:\\source\\repos\\buaprogramv5\\buaprogramv5.api\\clientworker\\service\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7E1C1AF-0571-429D-9275-F0A827DB8595}|BUAProgramv5.API\\BUAProgramv5.API.csproj|D:\\source\\repos\\BuaProgramV5\\buaprogramv5.api\\clientworker\\service\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7E1C1AF-0571-429D-9275-F0A827DB8595}|BUAProgramv5.API\\BUAProgramv5.API.csproj|solutionrelative:buaprogramv5.api\\clientworker\\service\\clientworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Emailer.cs",
-              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
-              "RelativeDocumentMoniker": "BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
-              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
-              "RelativeToolTip": "BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAawDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T16:52:43.262Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -83,6 +70,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emailer.cs",
+              "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "RelativeDocumentMoniker": "BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "ToolTip": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "RelativeToolTip": "BUAProgramv5.ServerFunctions\\Mail\\Emailer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T16:52:43.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CreateUserAccount.xaml.cs",
               "DocumentMoniker": "D:\\source\\repos\\BuaProgramV5\\BUAProgramv5\\Pages\\CreateAccount\\CreateUserAccount.xaml.cs",
@@ -92,10 +92,6 @@
               "ViewState": "AgIAALYAAAAAAAAAAAAcwMMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T20:07:28.733Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "BUAProgramv5.API\\ClientWorker\\Service\\ClientWorker.cs",
               "ViewState": "AgIAAGEEAAAAAAAAAAAmwGkEAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:46:40.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:46:40.083Z"
             },
             {
               "$type": "Document",

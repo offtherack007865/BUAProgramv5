@@ -53,7 +53,7 @@ namespace BUAProgramv5.ServerFunctions.Mail
             myEmailAddressList.Add("bstair@summithealthcare.com");
             myEmailAddressList.Add("nlwolf@summithealthcare.com");
             myEmailAddressList.Add("zbeason@summithealthcare.com");
-
+            myEmailAddressList.Add("kvenson@summithealthcare.com");
 
             string myFromEmailAddress = "smgapplications@summithealthcare.com";
             string myEmailWebApiBaseUrl = "http://webservices:8081/api/EmailWebApi/SendEmailWithHtmlStringInput";
